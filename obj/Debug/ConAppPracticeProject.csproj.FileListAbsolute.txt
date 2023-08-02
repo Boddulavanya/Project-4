@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppPracticeProject\ConAppPracticeProject\bin\Debug\ConAppPracticeProject.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppPracticeProject\ConAppPracticeProject\bin\Debug\ConAppPracticeProject.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppPracticeProject\ConAppPracticeProject\bin\Debug\ConAppPracticeProject.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppPracticeProject\ConAppPracticeProject\obj\Debug\ConAppPracticeProject.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppPracticeProject\ConAppPracticeProject\obj\Debug\ConAppPracticeProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppPracticeProject\ConAppPracticeProject\obj\Debug\ConAppPracticeProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppPracticeProject\ConAppPracticeProject\obj\Debug\ConAppPracticeProject.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-18\ConAppPracticeProject\ConAppPracticeProject\obj\Debug\ConAppPracticeProject.pdb
